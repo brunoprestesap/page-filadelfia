@@ -19,7 +19,7 @@ const Main = () => {
                 Transforme sua Aparência em um Espetáculo de Estilo! Descubra
                 nossos serviços premium
               </h1>
-              <h2 className="text-base mt-2 md:mt-5 md:text-xl text-slate-100">
+              <h2 className="text-sm mt-2 md:mt-5 md:text-xl text-slate-100">
                 Fuja de Cortes Desapontadores! Desfrute de um Ambiente
                 Acolhedor, Profissionais Especializados e Estilo Personalizado.
                 Agende já e Liberte seu Estilo!

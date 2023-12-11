@@ -1,6 +1,7 @@
 import './App.css'
 import Main from './components/Main'
 import Diferenciais from './components/Diferenciais'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <Main />
       <Diferenciais />
+      <Footer />
     </>
   )
 }
