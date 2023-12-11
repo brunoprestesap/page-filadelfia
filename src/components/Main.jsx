@@ -7,7 +7,10 @@ const Main = () => {
       <div className="relative w-full">
 
         <div className="w-full h-screen absolute top-0 left-0 bg-black bg-gradient-to-r from-[#33201C] justify-center">
-          <img src={logo} className="w-fit w-36 h-36 rounded-2xl m-5" />
+
+          <div className="flex w-full justify-center md:justify-start">
+            <img src={logo} className="w-fit w-36 h-36 rounded-2xl m-5 shadow-md shadow-slate-100" />
+          </div>
 
           <div className="max-w-[850px] m-auto h-96 px-5 w-full absolute bottom-36 md:bottom-24">
 
